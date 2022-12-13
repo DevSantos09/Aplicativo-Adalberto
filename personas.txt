@@ -1,0 +1,24 @@
+Persona 
+Socializador:
+	* O que pensa e sente? Compartilhar seus hábitos de consumo, ajudar compartilhamdo cupons que não utiliza, ajudar outras pessoas a conseguirem desconto.
+	* O que vê? Grupos de telegram, redes sociais, saites de notícias.
+	* O que fala e faz? Compartilha opniões, Gosta viagens, Gosta de fazer amizades.
+	* O que ouve? Você vai realmente pagar esse valor?, pesquisa em outras aplicativos ou lojas se encontra mais barato, Será se esse desconto é real?
+	* Quais são as dores? Falta de tempo de pesquisar desconto, Orçamento apertado. 
+	* Quais são as necessidades? Ganhar descontos em compras, economizar.
+
+Espirito Livre:
+	* O que pensa e sente? Otimização de tempo.
+	* O que vê? Acompanha muito sites de viagens, noticas sobre artistas. 
+	* O que fala e faz? Gosta de aventuras, fala sobre pesseios e festas. 
+	* O que ouve? Onde vai está este final de semana?, Qual a viagem para este mês?
+	* Quais são as dores? Mundo muito acelerado, Sem tempo para pesquisar.
+	* Quais são as necessidades? Descontos para pagar preços mais baratos.
+
+Jogadores:
+	* O que pensa e sente? Gosta de desafios e subir níveis.
+	* O que vê? Competiçoes de jogos. 
+	* O que fala e faz? Fala sobre competições e pratica esportes. 
+	* O que ouve? Podcasting sobre esportes, resultados de jogos.
+	* Quais são as dores? Manter o corpo saudável, manter a mente a esperta.
+	* Quais são as necessidades? Vencer desafios, conquistar titulos.
